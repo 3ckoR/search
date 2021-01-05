@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.rounded {
+    border: 1.5px solid lightgray;
+    border-radius: 100px;
+}
+.submit-margin {
+    margin: 10px;
+}
+
+p {
+    text-align: left;
+}
